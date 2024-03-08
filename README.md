@@ -1,6 +1,5 @@
 ## Hey, Sou Keison Mileno
 
-- 👋 Olá, sou @keisonsousa
 - 👀 Estou interessado em me tornar um profissional
 - 🌱 Atualmente estou aprendendo ADS
 - 📫 email: devkeison@gmail.com
