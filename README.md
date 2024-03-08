@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a professional
 - 🌱 I’m currently learning ADS
 - 💞️ I’m looking to collaborate on my friends
-- 📫 How to reach me @sxowz
+- 📫 How to reach me devkeison@gmail.com
 - ⚡ Fun fact: I'm old
 
 <!---
