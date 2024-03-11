@@ -1,6 +1,6 @@
 ## Hey, Sou Keison Mileno
 
-- 👀 Estou interessado em me tornar um profissional
+- 👀 Desenvolvedor em processo
 - 🌱 Atualmente estou aprendendo ADS
 - 📫 email: devkeison@gmail.com
 
